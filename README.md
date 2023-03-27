@@ -35,14 +35,14 @@ No fim ele faz um compilado dessas informações para um melhor gerenciamento.
  Abra o prompt de comando e cole o código abaixo:
  
  ```
- gh repo clone holandaalex/projetos
+ gh repo clone holandaalex/PROJETOS
  
 ```
 
 Entre na pasta do projeto
 
 ```
- cd api-desafio-front
+ cd projetos
 ```
 
 e instale as dependências
@@ -69,12 +69,18 @@ a api estará disponivel no endereço:
 
 ### Tecnologias utilizadas
 
-- Express.
-- MongoDB.
-- Postman.
-- Mongoose.
-- Bcrypt.
-- Jsonwebtoken.
+- NodeJS
+- nodemon
+- dotenv
+- Angular
+- Http Status
+- NPM
+- MongoDB
+- Postman
+- Express
+- Bootstrap
+- TypeScript
+- html, scss
 
 
 
